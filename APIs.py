@@ -1,7 +1,7 @@
 
 import json
 import requests
-import sys
+import 
 
 if len(sys.argv) != 2:
     sys.exit()
