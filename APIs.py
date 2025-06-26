@@ -2,6 +2,7 @@
 import json
 import requests
 import sys
+hello
 
 if len(sys.argv) != 2:
     sys.exit()
